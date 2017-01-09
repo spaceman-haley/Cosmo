@@ -6,9 +6,9 @@
 
 	<div>
 	<p> THis is some shit</p>
-	<?php
+	<p><?php
 		include ("test.php");
-	?>
+	?></p>
 	</div>
 </body>
 </html>
